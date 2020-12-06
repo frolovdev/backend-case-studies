@@ -2,6 +2,8 @@ Articles like “Building a simple todo list or blog with [framework or technolo
 
 ## Table of contents
 
-
-
 ## English
+
+### [Pusher](https://pusher.com/)
+
+- [Why we've adopted elixir](https://youtu.be/zL2wcqS78UA) (Feb 25, 2020)
