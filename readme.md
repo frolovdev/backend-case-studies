@@ -17,4 +17,4 @@ Articles like “Building a simple todo list or blog with [framework or technolo
 
 ### [Github](https://github.com/)
 
-- [Why GitHub's CLI team switched from Ruby to Go](Why GitHub's CLI team switched from Ruby to Go) (Nov 20, 2020)
+- [Why GitHub's CLI team switched from Ruby to Go](https://youtu.be/fuYwyQllMpE) (Nov 20, 2020)
